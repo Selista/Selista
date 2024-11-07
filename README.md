@@ -7,7 +7,7 @@
 ### 📄 CV - [download CV](http://selista.zzz.com.ua/)
 
 ### 🤝 Connect with me:
-<p align="center">
+<p align="left">
 <a href="mailto:tsykalenko.t@gmail.comProfile image" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tsykalenko.t@gmail.comProfile image" alt="tatyana tsykalenko"  />
 <a href="https://www.linkedin.com/in/tanya-tsykalenko-3830372b1/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tatyanatsykalenko" />
 <a href="https://t.me/Tanya_Tsy" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="tatyanatsykalenko" />
