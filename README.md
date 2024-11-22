@@ -4,7 +4,7 @@
 
 ### 👩🏻‍💻 Portfolio: [Tatyana Tsykalenko](http://selista.zzz.com.ua/)
 
-### 📄 CV - [download CV](http://selista.zzz.com.ua/)
+### 📄 CV - [download CV](https://drive.google.com/file/d/1Y-e1-6Fe5Rnv7B6_NpDi8BBDCvy2j9iN/view?usp=sharing)
 
 ### 🤝 Connect with me:
 <p align="left">
