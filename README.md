@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend developer from Kiev</h3>
 
-### 👩🏻‍💻 Portfolio: [Tatyana Tsykalenko](http://selista.zzz.com.ua/)
-
 ### 📄 CV - [download CV](https://drive.google.com/drive/folders/1dn8v_zrt3GlnGE7YTIQZjw7c4Uqb961M?usp=sharing)
 
 ### 🤝 Connect with me:
