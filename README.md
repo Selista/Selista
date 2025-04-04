@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="http://selista.zzz.com.ua/" target="_blank">Tanya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend developer from Kiev</h3>
+<h3 align="center">IT Project Manager</h3>
 
 ### 📄 CV - [download CV](https://drive.google.com/drive/folders/1dn8v_zrt3GlnGE7YTIQZjw7c4Uqb961M?usp=sharing)
 
