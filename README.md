@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">IT Project Manager</h3>
 
-### 📄 CV - [download CV](https://drive.google.com/drive/folders/1dn8v_zrt3GlnGE7YTIQZjw7c4Uqb961M?usp=sharing)
+### 📄 CV - [download CV](https://drive.google.com/drive/folders/1dn8v_zrt3GlnGE7YTIQZjw7c4Uqb961M)
 
 ### 🤝 Connect with me:
 <p align="left">
